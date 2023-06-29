@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'UTM Fancy Full';
+    src: url('UTMFancyFull.eot');
+    src: url('UTMFancyFull.eot?#iefix') format('embedded-opentype'),
+        url('UTMFancyFull.woff2') format('woff2'),
+        url('UTMFancyFull.woff') format('woff'),
+        url('UTMFancyFull.ttf') format('truetype'),
+        url('UTMFancyFull.svg#UTMFancyFull') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
